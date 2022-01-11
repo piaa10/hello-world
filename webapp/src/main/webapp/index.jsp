@@ -4,7 +4,7 @@
   </div>
   <div class="middle">
     <h1>COMING SOON</h1>
-    <h1>to your place</h1>
+    <h1>have a great day</h1>
     <hr>
     <p>35 days</p>
   </div>
